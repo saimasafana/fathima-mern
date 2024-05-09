@@ -1,0 +1,28 @@
+.restorent{
+    background-color: yellow;
+    color: black;
+    margin-top: 20px;
+    padding:20px;
+}
+a{
+    text-decoration: none;
+    padding: 8px;
+    font-size: larger;
+    font-style: italic;
+}
+.bdy{
+    background-image: url("image1.webp");
+}
+h1{
+color:yellow;
+margin-left: 300px;
+margin-top:300px;
+font-family: 'Times New Roman', Times, serif;
+font-size: 100px;
+}
+.left{
+    float:left;
+}
+.right{
+    float:right;
+}
